@@ -7,3 +7,4 @@
 - [cpanel deploy guide](cpanel-deploy.md)
 - [injection](injection.md)
 - [unit-test](unit-test.md)
+- [SEO](seo.md)
