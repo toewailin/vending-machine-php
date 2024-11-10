@@ -1,5 +1,5 @@
 # Vending Machine using PHP
 
-- [guide](guide.me)
+- [guide](guide.md)
 - [ui](ui.md)
 - [deploy](deploy.md)
